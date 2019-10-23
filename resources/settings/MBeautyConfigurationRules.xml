@@ -178,7 +178,7 @@
    <SpecialRules>
       <SpecialRule>
          <Key>MaximalNewLines</Key>
-         <Value>2</Value>
+         <Value>1</Value>
       </SpecialRule>
       <SpecialRule>
          <Key>SectionPrecedingNewlineCount</Key>
